@@ -1,7 +1,6 @@
 
 original osu-rx by [mrflashstudio](https://github.com/mrflashstudio/)
 
-still undetected (writing this 03/18/2021) if you have a bypass for the new bancho ac *((not really hard))*:tm:
 
 # osu-rx [![CodeFactor](https://www.codefactor.io/repository/github/mrflashstudio/osu-rx/badge?style=for-the-badge)](https://www.codefactor.io/repository/github/mrflashstudio/osu-rx) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mrflashstudio) [![discord server](https://discordapp.com/api/guilds/725077972075151430/widget.png?style=shield)](https://discord.gg/q3vS9yp)
 osu!standard relax hack
